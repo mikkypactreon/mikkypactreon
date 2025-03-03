@@ -35,6 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikkypactreon&show_icons=true&locale=en" alt="mikkypactreon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikkypactreon&" alt="mikkypactreon" /></p>
+<!--    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikkypactreon&" alt="mikkypactreon" /></p>   -->
+
 
 ![Snake animation](https://raw.githubusercontent.com/mikkypactreon/mikkypactreon/output/github-contribution-grid-snake-dark.svg)
